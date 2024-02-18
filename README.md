@@ -22,18 +22,24 @@
 </p>
 
 - ### [E5: Pole location by different methods](docs/e5.md)
-<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/b05af43a-63e9-4b73-8cf8-cdfbde98e271" width="200" height="107">|____|
-<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/3aa1e77f-053e-4db2-863a-3d35fbe7a55f" width="350" height="110">|____|
-<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/df1dea1f-cb84-451f-b89b-a94240b6b00e" width="300" height="113">
 <p align="center">
-<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/1923e398-71c0-42c6-9a87-f195d4e7bf70" width="500" height="200">
+<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/b05af43a-63e9-4b73-8cf8-cdfbde98e271" width="225" height="107">| |
+<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/3aa1e77f-053e-4db2-863a-3d35fbe7a55f" width="350" height="110">
+</p>  
+<p align="center">
+<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/df1dea1f-cb84-451f-b89b-a94240b6b00e" width="325" height="113">| |
+<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/1923e398-71c0-42c6-9a87-f195d4e7bf70" width="400" height="150"> 
 </p>  
 
 - ### [E6: Pole location, Mechanical and electrical systems ](docs/e6.md)
-<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/c8eabeab-8e08-4bda-8e21-2ca6a2fb6deb" width="215" height="125">|____|
-<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/ec0ef9cd-650b-473d-83d4-301719ab5710" width="215" height="125">|____|
-<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/27c38004-a7ec-4462-a092-9aefd707313c" width="215" height="125">|____|
-<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/25c195da-d385-403d-b913-c289ca5fb67e" width="215" height="125">|____|
+<p align="center">
+<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/c8eabeab-8e08-4bda-8e21-2ca6a2fb6deb" width="250" height="150">| |
+<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/ec0ef9cd-650b-473d-83d4-301719ab5710" width="250" height="150">
+</p>  
+<p align="center">
+<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/27c38004-a7ec-4462-a092-9aefd707313c" width="250" height="150">| |
+<img src="https://github.com/JoseEmmanuelVG/MechatronicSystemsControl/assets/89156254/25c195da-d385-403d-b913-c289ca5fb67e" width="250" height="150">
+</p>  
 
 
 
