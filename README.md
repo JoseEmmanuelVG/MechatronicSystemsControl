@@ -1,6 +1,7 @@
 # Mechatronic Systems Control, Practices and exercises: 
 
 <h2><p align="center">    Exercises          </p></h2>
+Click on the link of the exercise you would like to see and find the code and simulation in the file folder.
 
 - ### [E1: Mathematical model and state space](docs/e1.md)
   - ### [E2: State vector, controllability and stability of excercise 1](docs/e2.md)
