@@ -1,5 +1,8 @@
 import os
 
+# Ruta de la carpeta que contiene los archivos
+folder_path = "/workspaces/MechatronicSystemsControl/docs"
+
 # Agregar el pie de pagina a los archivos markdown
 FOOTER = """
 <details>
@@ -32,9 +35,10 @@ def add_footer_to_file(file_path):
     else:
         print(f"Footer already present in {file_path}")
 
-# Camina por el directorio actual y busca archivos .md
-for root, dirs, files in os.walk("."):
-    for file in files:
-        if file.endswith(".md"):
-            full_path = os.path.join(root, file)
-            add_footer_to_file(full_path)
+# Lista de nombres de archivos para modificar
+file_names = [f"e{i}.md" for i in range(1, 7)]
+
+# Ejecutar la función add_footer_to_file en cada archivo
+for name in file_names:
+    full_path = os.path.join(folder_path, name)
+    add_footer_to_file(full_path)
